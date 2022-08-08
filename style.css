@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+
+}
+:root{
+    --dark1:#25363e;
+    --brown2:#40312a;
+    --green:#4c4920;
+    --oro4:#7e5535;
+    --oro3:#a2774c;
+    --oro2:#cb9547;
+    --oro1:#dcae56;
+    --oro0:#fbe8bd;
+    --white:#ececec;
+    --grey:#b0ada8;
+}
