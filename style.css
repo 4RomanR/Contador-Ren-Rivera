@@ -83,3 +83,49 @@ header ul li a{
     padding: 0.5rem 2rem;
 }
 /* -------SERVICIOS------- */
+
+.servicios-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.1rem;   
+    margin: 4rem;
+}
+.servicios-content h4{
+    color: var(--oro1);
+}
+.servicios-content p{
+    color: var(--white);
+}
+.servicios-content div{
+    margin: 3rem;
+    padding: 1.5rem;
+    background-color: var(--dark1);
+    box-shadow: 5px 5px 7px #000;
+}
+.servicios-content img{
+    width: 1.5rem;
+}
+
+/* --------SOBREMI------- */
+.sobremi-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.1rem;   
+    background-color: var(--green);
+    color: var(--white);
+}
+.sobremi-content img{
+    width: 400px;
+    margin: 3rem 6rem;
+}
+.sobremi-content h4{
+    color: var(--oro1);
+}
+.sobremi-content p{
+    color: var(--white);
+    
+}
